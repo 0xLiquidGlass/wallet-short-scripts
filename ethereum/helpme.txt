@@ -1,0 +1,38 @@
+Script to generate an Ethereum-compatible address
+
+Commands:
+
+--help -h       To show help (this)
+
+--generate -g   To generate a new Ethereum-compatible keypair
+
+
+Use the following command to set up the genethkey script:
+
+    pip install requirements.txt
+
+
+To use the script:
+
+1. Set up a path that your newly generated address can go
+
+   e.g. mkdir "wallet"/
+
+   Where the path will be made in the directory you are in
+
+2. Generate a new address to the newly generated path
+
+   e.g. python3 genethkey.py --generate > "wallet/SomeEthAddress.txt"
+
+   OR
+
+   e.g. ./genethkey.py --generate > "wallet/SomeEthAddress.txt"
+
+   Note that the second command only works if you have the #!/usr/bin/python3 uncommneted
+   and you are in the same directory as the script as well as chmod +x has been applied to
+   the script
+    
+
+genethkey.py  Copyright (C) 2023  "Liquid Glass"
+
+This is free software, and you are welcome to redistribute it
