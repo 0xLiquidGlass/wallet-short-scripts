@@ -41,8 +41,8 @@ Similar to genethkey.py, but it is genalgokey.py and has a simpler design
 ## Donations
 This is completely optional. To support me, you can donate to me via this address:
 
-`Eth, Matic: 0x96b939aaA7E5660591e51c7d6BA46587532e607A`
+`Ethereum, Matic: 0x96b939aaA7E5660591e51c7d6BA46587532e607A`
 
 `Algorand: KJVALCPBBTGT4YPVUZIYZYBERU3SVE5Q32MP5I7HVU2GK4JWD56PLRAE7E`
 
-I accept Ethereum and Polygon at the moment. As more scripts for a specific cryptocurrency has been added, I will list those here as a means of donations
+As more scripts for a specific cryptocurrency has been added, I will list those here as a means of donations
