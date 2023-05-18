@@ -6,10 +6,13 @@ Commands:
 
 --generate -g   To generate a new Algorand keypair
 
+--qr -q         To obtain the QR version of the generated address (useful when you do not want to
+     		expose the seed phrase)
+
 
 Use the following command to set up the genalgokey script:
 
-    pip install requirements.txt
+    pip install -r requirements.txt
 
 
 To use the script:
@@ -31,6 +34,21 @@ To use the script:
    Note that the second command only works if you have the #!/usr/bin/python3 uncommneted
    and you are in the same directory as the script as well as chmod +x has been applied to
    the script
+
+3. Generate a new address to a newly generated path and save a QR code
+
+   e.g. python3 genalgokey.py --generate --qr > "wallet/SomeAlgoAddress.txt"
+
+   OR
+
+   e.g. ./genalgokey.py --generate --qr > "wallet/SomeAlgoAddress.txt"
+   
+
+Notes:
+
+1. The QR code will be overwritten each time a new address with the --qr or -q switch is used
+
+2. Before using QR, the --generate or -g switch must be used or the QR code will not work
     
 
 genalgokey.py  Copyright (C) 2023  "Liquid Glass"

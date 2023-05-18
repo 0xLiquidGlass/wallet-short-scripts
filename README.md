@@ -3,6 +3,10 @@ This repo contains scripts for cryptocurrencies. They have minimal functionality
 
 I created this repo as a response to the news that Ledger has implemented Ledger Recover because I believe that we should be owning our keys, not others
 
+## What's new?
+### 2023 May 19
+- QR code functionality for generated address
+
 ## Contents
 ### ethereum/
 This directory contains a script, `genethkey.py`, that allows you to generate a new address (keypair) and the resources needed to make the script work properly
