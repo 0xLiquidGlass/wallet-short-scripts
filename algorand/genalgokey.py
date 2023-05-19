@@ -37,6 +37,7 @@ def help_me():
 
 if __name__ == "__main__":
     execute = None
+    
     for command in sys.argv[1:]:
         if command == str("--generate") or command == str("-g"):
             execute = gen_algo_key()

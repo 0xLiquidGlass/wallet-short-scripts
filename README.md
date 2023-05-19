@@ -6,6 +6,7 @@ I created this repo as a response to the news that Ledger has implemented Ledger
 ## What's new?
 ### 2023 May 19
 - QR code functionality for generated address
+- Support for generating Cardano address
 
 ## Contents
 ### ethereum/

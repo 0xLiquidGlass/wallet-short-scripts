@@ -1,0 +1,3 @@
+pycardano == 0.9.0
+mnemonic == 0.20
+qrcode == 7.4.2
