@@ -47,10 +47,12 @@ OR
 ## Donations
 This is completely optional. To support me, you can donate to me via this address:
 
-`Ethereum, Matic: 0x96b939aaA7E5660591e51c7d6BA46587532e607A`
+```
+Ethereum, Matic: 0x96b939aaA7E5660591e51c7d6BA46587532e607A
 
-`Algorand: KJVALCPBBTGT4YPVUZIYZYBERU3SVE5Q32MP5I7HVU2GK4JWD56PLRAE7E`
+Algorand: KJVALCPBBTGT4YPVUZIYZYBERU3SVE5Q32MP5I7HVU2GK4JWD56PLRAE7E
 
-`Cardano: addr1qyu5v5nh02ueyc08jrf37jamdu7ej85zzfya47fvgh6w3y3af3f65uukq77xtxgcws6qpljyh8sp04r8hlc74scwk5js7mzwqm`
+Cardano: addr1qyu5v5nh02ueyc08jrf37jamdu7ej85zzfya47fvgh6w3y3af3f65uukq77xtxgcws6qpljyh8sp04r8hlc74scwk5js7mzwqm
+```
 
 As more scripts for a specific cryptocurrency has been added, I will list those here as a means of donations
