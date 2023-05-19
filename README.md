@@ -3,13 +3,16 @@ This repo contains scripts for cryptocurrencies. They have minimal functionality
 
 I created this repo as a response to the news that Ledger has implemented Ledger Recover because I believe that we should be owning our keys, not others
 
+
 ## What's new?
 ### 2023 May 19
 - QR code functionality for generated address
 - Support for generating Cardano address
 
-## Contents
-### ethereum/
+
+## To use the scripts
+For this example, I will be using `ethereum/genethkey.py` . All scripts that uses Python will operate the same way unless stated
+
 This directory contains a script, `genethkey.py`, that allows you to generate a new address (keypair) and the resources needed to make the script work properly
 
 To setup `genethkey.py`, do:
@@ -28,8 +31,6 @@ OR
 
 `python genethkey.py --generate > "wallet/SomeEthAddress.txt"` if you are on Windows
 
-### algorand/
-Similar to genethkey.py, but it is genalgokey.py and has a simpler design
 
 ## A makeshift cold wallet THAT YOU FULLY CONTROL
 
@@ -49,5 +50,7 @@ This is completely optional. To support me, you can donate to me via this addres
 `Ethereum, Matic: 0x96b939aaA7E5660591e51c7d6BA46587532e607A`
 
 `Algorand: KJVALCPBBTGT4YPVUZIYZYBERU3SVE5Q32MP5I7HVU2GK4JWD56PLRAE7E`
+
+`Cardano: addr1qyu5v5nh02ueyc08jrf37jamdu7ej85zzfya47fvgh6w3y3af3f65uukq77xtxgcws6qpljyh8sp04r8hlc74scwk5js7mzwqm`
 
 As more scripts for a specific cryptocurrency has been added, I will list those here as a means of donations
