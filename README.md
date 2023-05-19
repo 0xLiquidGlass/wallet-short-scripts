@@ -13,7 +13,7 @@ I created this repo as a response to the news that Ledger has implemented Ledger
 ## To use the scripts
 For this example, I will be using `ethereum/genethkey.py` . All scripts that uses Python will operate the same way unless stated
 
-This directory contains a script, `genethkey.py`, that allows you to generate a new address (keypair) and the resources needed to make the script work properly
+The `ethereum/` directory contains a script, `genethkey.py` , that allows you to generate a new address (keypair) and the resources needed to make the script work properly
 
 To setup `genethkey.py`, do:
 
