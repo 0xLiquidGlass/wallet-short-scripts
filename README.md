@@ -9,6 +9,9 @@ I created this repo as a response to the news that Ledger has implemented Ledger
 - QR code functionality for generated address
 - Support for generating Cardano address
 
+### 2023 May 25
+- Support for generating Bitcoin address
+
 
 ## To use the scripts
 For this example, I will be using `ethereum/genethkey.py` . All scripts that uses Python will operate the same way unless stated
@@ -53,6 +56,8 @@ Ethereum, Matic: 0x96b939aaA7E5660591e51c7d6BA46587532e607A
 Algorand: KJVALCPBBTGT4YPVUZIYZYBERU3SVE5Q32MP5I7HVU2GK4JWD56PLRAE7E
 
 Cardano: addr1qyu5v5nh02ueyc08jrf37jamdu7ej85zzfya47fvgh6w3y3af3f65uukq77xtxgcws6qpljyh8sp04r8hlc74scwk5js7mzwqm
+
+Bitcoin: bc1q88tywamugxvqnhst3mh22t7sq44w23p44nf7vu
 ```
 
 As more scripts for a specific cryptocurrency has been added, I will list those here as a means of donations
