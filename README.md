@@ -13,6 +13,11 @@ I created this repo as a response to the news that Ledger has implemented Ledger
 - Support for generating Bitcoin address
 
 
+## Requirements
+
+- Python(3.x)
+
+
 ## To use the scripts
 For this example, I will be using `ethereum/genethkey.py` . All scripts that uses Python will operate the same way unless stated
 
@@ -46,6 +51,7 @@ OR
 4. Go into the directory and set up the script
 
 5. Ready to use
+
 
 ## Donations
 This is completely optional. To support me, you can donate to me via this address:
